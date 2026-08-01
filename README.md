@@ -1,2 +1,8 @@
 # Global-E-Waste-Analytics-Pipeline
-Built an end-to-end ETL pipeline in Google Colab using live data from the World Bank API, EPA, and Our World in Data. Processed 10 years of e-waste data for the top 10 countries, calculated rankings, recycling metrics, and trends, and exported an 8-sheet Power BI-ready Excel dataset.
+Developed an automated ETL pipeline in Google Colab (Python) that:
+Retrieved live e-waste data from World Bank API, EPA, and Our World in Data
+Processed data for the top 10 e-waste-generating countries over the last 10 years
+Calculated global rankings, market share (%), recycling rates, and recycled metric tons
+Generated regional summaries and trend analysis datasets
+Exported a Power BI-ready Excel workbook with 8 structured data sheets for visualization and business reporting
+Tech Stack: Python • Pandas • Requests • Google Colab • Excel • APIs • Power BI.
